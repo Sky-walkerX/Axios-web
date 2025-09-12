@@ -1,4 +1,4 @@
-# HTML Guide for First-Year Students 🎓
+# HTML Guide 🎓
 
 Welcome to your complete guide to HTML (HyperText Markup Language)! This guide will teach you everything you need to know to start building web pages.
 
