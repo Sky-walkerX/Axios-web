@@ -1,4 +1,4 @@
-# CSS Guide for First-Year Students 🎨
+# CSS Guide 🎨
 
 Welcome to your complete guide to CSS (Cascading Style Sheets)! This guide will teach you everything you need to know to start styling beautiful web pages.
 
