@@ -1,12 +1,12 @@
 # Web Development Roadmap
 
-This guide provides a high-level overview of the skills and technologies you'll need to become a web developer. For a detailed, step-by-step guide, please refer to the full PDF document.
+This guide provides a high-level overview of the skills and technologies you'll need to become a web developer. For a detailed, step-by-step guide, please refer to the link.
 
-**[View the Web Development Roadmap PDF](./Web-Development-Roadmap.pdf)**
+<a href="https://gamma.app/docs/Web-Development-Roadmap--xx0ynhvl010zwr4">Refer this for the whole roadmap</a>
 
 The roadmap is divided into two main sections:
 
 1.  **Frontend Development:** The visual part of the website that users interact with.
 2.  **Backend Development:** The server-side logic that powers the website from behind the scenes.
 
-For a complete breakdown, including recommended resources and learning paths, please consult the PDF.
+For a complete breakdown, including recommended resources and learning paths, please consult the link.
