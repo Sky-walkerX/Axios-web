@@ -2,7 +2,7 @@
 
 This guide provides a high-level overview of the skills and technologies you'll need to become a web developer. For a detailed, step-by-step guide, please refer to the link.
 
-<a href="https://github.com/Sky-walkerX/Axios-web/blob/main/Resources/Roadmap/Web-Development-Roadmap.pdf">Refer this for the whole roadmap</a>
+<a href="https://gamma.app/docs/Web-Development-Roadmap--xx0ynhvl010zwr4">Refer this for the whole roadmap</a>
 
 The roadmap is divided into two main sections:
 
