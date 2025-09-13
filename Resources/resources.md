@@ -11,10 +11,10 @@
 ## CSS Video Tutorials
 
 ### English
-- Coming soon...
+[Video link](https://youtu.be/OXGznpKZ_sA?si=dRCGn8hdkbqKZDP9)
 
 ### Hindi  
-- Coming soon...
+[Video link](https://youtu.be/MSICFljRcb4?si=S8k9CVdRzm7hlvyz)
 
 ## JavaScript Video Tutorials
 
