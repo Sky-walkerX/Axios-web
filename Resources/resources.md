@@ -19,10 +19,10 @@
 ## JavaScript Video Tutorials
 
 ### English
-- Coming soon...
+[Playlist link](https://youtube.com/playlist?list=PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4&si=3HZouB16RB7XSoPc)
 
 ### Hindi
-- Coming soon...
+[Playlist link](https://youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&si=z1_DTgR43l0QiTpI)
 
 ---
 
